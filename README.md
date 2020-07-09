@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**TylerFiekens/TylerFiekens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Tyler Fiekens** i'm a 21 year old developer from Bielefeld, Germany.
 
-Here are some ideas to get you started:
+Currently I work as a junior Webdevelop at [wambo](https://wambo.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been coding since 2016, though I just started my apprenticeship last year.
+
+## Languages:
+- HTML/CSS/JS (duhh)
+- Typescript
+- PHP
+- GO
+- C#
+
+## Frameworks
+- Laravel
+- Vue
+
+## Code Qualitiy
+- Github Actions
+- Linter tools e.g. PHPCS
+- Unit Testing! ✅
+
+## Devops
+- Linux
+- Docker
+- Serverless
+- Database Management
