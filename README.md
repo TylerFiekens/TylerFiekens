@@ -2,7 +2,7 @@
 
 My name is **Tyler Fiekens** i'm a 21 year old developer from Bielefeld, Germany.
 
-Currently I work as a junior Webdevelop at [wambo](https://wambo.com).
+Currently I work as a junior Webdeveloper at [wambo](https://wambo.com).
 
 I've been coding since 2016, though I just started my apprenticeship last year.
 
