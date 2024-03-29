@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Joshua Bush**
 
-- 📫 How to reach me **tyler.fiekens@wambo.com**
+- 📫 How to reach me **dev@tylerfiekens.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
